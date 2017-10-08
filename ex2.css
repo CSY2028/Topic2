@@ -31,3 +31,7 @@ footer {
 	background-color: green;
 	color: white;
 }
+
+main a {
+	color: white;
+}
