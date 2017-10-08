@@ -21,14 +21,14 @@
         <li>
           <a href="contact.php">Contact</a>
         </li>
-                  <li>
+          <li>
           <a href="hobbies.php">Hobbies</a>
         </li>
       </ul>
 
     </nav>
     <main>
-      <p>Welcome to my website</p>
+     <p>My hobbies are running and music</p>
     </main>
 
     <div>

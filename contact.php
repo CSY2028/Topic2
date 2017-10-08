@@ -21,6 +21,9 @@
         <li>
           <a href="contact.php">Contact</a>
         </li>
+                  <li>
+          <a href="hobbies.php">Hobbies</a>
+        </li>
       </ul>
 
     </nav>
