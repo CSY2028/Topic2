@@ -1,4 +1,7 @@
-<?php require 'head.php'; ?>
+<?php
+$title = 'Frequently Asked Questions';
+require 'head.php';
+?>
      <p>What do you study?</p>
 
      <p>I study Software Engineering</p>

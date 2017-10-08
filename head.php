@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Web Page!</title>
+    <title><?php echo $title; ?></title>
     <link rel="stylesheet" href="ex2.css" />
   </head>
   <body>
