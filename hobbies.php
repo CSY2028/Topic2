@@ -1,6 +1,6 @@
 <?php 
 $title = 'Hobbies';
-require 'head.php';
+$content = '<p>My hobbies are running and music</p>';
+
+require 'layout.php';
 ?>
-     <p>My hobbies are running and music</p>
-<?php require 'foot.php'; ?>

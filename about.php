@@ -1,8 +1,8 @@
 <?php 
 
 $title = 'About me';
-require 'head.php'; 
-?>
+$content = '<p>I\'m a student at the University of Northampton</p>';
 
-<p>I'm a student at the University of Northampton</p>
-<?php require 'foot.php'; ?>
+require 'layout.php';
+
+?>

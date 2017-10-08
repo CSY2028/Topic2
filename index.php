@@ -1,6 +1,6 @@
 <?php 
 $title = 'Home Page';
-require 'head.php'; 
+$content = '<p>Welcome to my website</p>';
+
+require 'layout.php';
 ?>
-<p>Welcome to my website</p>
-<?php require 'foot.php'; ?>

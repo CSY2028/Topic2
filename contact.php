@@ -1,8 +1,7 @@
 <?php
 $title = 'Contact me';
-require 'head.php';
+
+$content = '<p>Please contact me via email: <a href="mailto:thomas.butler@northampton.ac.uk">thomas.butler@northampton.ac.uk</a></p>';
+
+require 'layout.php';
 ?>
-
-<p>Please contact me via email: <a href="mailto:thomas.butler@northampton.ac.uk">thomas.butler@northampton.ac.uk</a></p>
-
-<?php require 'foot.php'; ?>
