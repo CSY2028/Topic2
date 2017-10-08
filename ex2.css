@@ -1,0 +1,33 @@
+header {
+	background-color: blue;
+	color: white;
+	padding: 20px;
+	overflow: auto;
+}
+
+.table {
+	display: table;
+	width: 100%;
+
+}
+main {
+	background-color: darkblue;
+	color: white;
+	display: table-cell;
+}
+nav {
+	background-color: yellow;
+	width: 20%;
+	display: table-cell;
+}
+
+div div {
+	width: 20%;
+	display: table-cell;
+	background-color: lightgreen;
+}
+
+footer {
+	background-color: green;
+	color: white;
+}
